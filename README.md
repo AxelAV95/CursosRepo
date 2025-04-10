@@ -269,5 +269,4 @@ Herramientas útiles para desarrolladores (no otorgan certificaciones):
 
 Por favor, asegúrate de que los recursos sean gratuitos y de plataformas confiables.
 ---
-Creado por [Axel A.V](https://aaavportafolio.netlify.app/)
-¡Gracias por visitar este repositorio! Espero que encuentres estos recursos útiles para tu desarrollo profesional. 🚀
+¡Gracias por visitar este repositorio! Espero que encuentres estos recursos útiles para tu desarrollo profesional. 🚀 <br>Creado por [Axel A.V](https://aaavportafolio.netlify.app/) 
