@@ -1,30 +1,36 @@
-# Repositorio de Cursos Gratuitos con Insignias y Certificaciones
+# Repositorio de cursos gratuitos con insignias y certificaciones
 
-¡Bienvenidos al **Repositorio de Cursos Gratuitos con Insignias y Certificaciones**! Este repositorio reúne una selección cuidadosamente curada de cursos y certificaciones en línea gratuitos que otorgan **insignias digitales** o **certificados** al completarlos. Los recursos abarcan áreas como computación en la nube, ciberseguridad, programación, ciencia de datos y más. Ya seas un principiante que busca construir una base sólida o un profesional que desea ampliar sus conocimientos, este repositorio ofrece oportunidades de aprendizaje valiosas de plataformas confiables.
+¡Bienvenidos al repositorio! Este repositorio reúne una selección cuidadosamente de cursos y certificaciones en línea gratuitos que otorgan **insignias digitales** o **certificados** al completarlos. Los recursos abarcan áreas como computación en la nube, ciberseguridad, programación, ciencia de datos y más. Ya seas un principiante que busca construir una base sólida o un profesional que desea ampliar sus conocimientos, este repositorio ofrece oportunidades de aprendizaje valiosas de plataformas confiables. Este repositorio se estará **actualizando** constantemente.
 
 ---
 
 
-## Tabla de Contenidos
-- [Introducción para Principiantes](#introducción-para-principiantes)
+## Tabla de contenidos
+- [Introducción](#introducción)
 - [AWS Educate](#aws-educate)
 - [AWS SkillBuilder](#aws-skillbuilder)
 - [Cisco Networking Academy](#cisco-networking-academy)
-- [Otras Certificaciones](#otras-certificaciones)
+- [Otras certificaciones](#otras-certificaciones)
 - [Agencia Nacional de Empleo (INA)](#agencia-nacional-de-empleo-ina)
-- [Academias Gratuitas con Certificados](#academias-gratuitas-con-certificados)
-- [Cursos de Inglés](#cursos-de-inglés)
+- [Academias gratuitas con certificados](#academias-gratuitas-con-certificados)
 - [The Linux Foundation](#the-linux-foundation)
 - [Certificaciones de HackerRank](#certificaciones-de-hackerrank)
-- [Recursos para Desarrollo](#recursos-para-desarrollo)
+- [Cursos de inglés y tests de nivelación](#cursos-de-inglés)
+- [Recursos para desarrollo](#recursos-para-desarrollo)
 - [Contribuir](#contribuir)
-- [Licencia](#licencia)
+
 
 ---
 
-## Introducción para Principiantes
+## Introducción
 
 ### ¿Qué es Credly y por qué es importante?
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc659f09-913a-44b4-9e5b-ea7f26885209" width="400" style="border-radius: 2rem">
+</p>
+
+
 
 **Credly** es una plataforma digital que permite a personas y organizaciones otorgar, gestionar y mostrar **credenciales digitales**, también conocidas como **badges** (insignias). Estas insignias representan habilidades, conocimientos o logros adquiridos a través de cursos, certificaciones, talleres u otras experiencias de aprendizaje.
 
@@ -83,18 +89,18 @@ En resumen, Credly ayuda a que tus logros educativos y profesionales tengan mayo
 
 **AWS Educate** ofrece cursos gratuitos y autodirigidos para aprender sobre las tecnologías de Amazon Web Services (AWS). Regístrate en [AWS Educate](https://aws.amazon.com/es/education/awseducate/) para comenzar. Los siguientes cursos están disponibles en **español** y otorgan insignias al completarlos:
 
-- Introducción a la Nube 101
-- Primeros Pasos con Almacenamiento
-- Primeros Pasos con Computación
-- Primeros Pasos con Redes
-- Primeros Pasos con Bases de Datos
-- Primeros Pasos con Operaciones en la Nube
-- Primeros Pasos con Seguridad
-- Primeros Pasos con Serverless
-- Fundamentos de Machine Learning
-- Introducción a AWS DeepRacer
-- Introducción a la Inteligencia Artificial Generativa
-- Laboratorios de Construcción
+- Introduction to Cloud 101
+- Getting Started with Storage
+- Getting Started with Compute
+- Getting Started with Networking
+- Getting Started with Databases
+- Getting Started with Cloud Operations
+- Getting Started with Security
+- Getting Started with Serverless
+- Machine Learning Foundations
+- AWS DeepRacer Primer
+- Introduction to Generative Artificial Intelligence
+- Builder Labs
 
 ---
 
@@ -110,7 +116,7 @@ En resumen, Credly ayuda a que tus logros educativos y profesionales tengan mayo
   Aprendizaje interactivo para aspirantes a profesionales de la nube.  
   [Inscríbete aquí](https://explore.skillbuilder.aws/learn/courses/20528/aws-cloud-quest-cloud-cloud-practitioner-spanish)
 
-### Cursos en Inglés (Rutas para Insignias de Conocimiento)
+### Cursos en Inglés (Rutas para insignias de conocimiento)
 - [Serverless](https://explore.skillbuilder.aws/learn/learning-plans/92/plan)
 - [Computación](https://explore.skillbuilder.aws/learn/learning-plans/1985/plan)
 - [Amazon EKS](https://explore.skillbuilder.aws/learn/learning_plan/view/1931/plan)
@@ -143,7 +149,7 @@ En resumen, Credly ayuda a que tus logros educativos y profesionales tengan mayo
 
 ---
 
-## Otras Certificaciones
+## Otras certificaciones
 
 Certificaciones gratuitas adicionales de plataformas reconocidas:
 
@@ -167,7 +173,7 @@ La **Agencia Nacional de Empleo (INA)** ofrece cursos gratuitos con certificados
 
 ---
 
-## Academias Gratuitas con Certificados
+## Academias gratuitas con certificados
 
 Plataformas que ofrecen cursos gratuitos con certificados:
 
@@ -193,21 +199,7 @@ Plataformas que ofrecen cursos gratuitos con certificados:
 
 ---
 
-## Cursos de Inglés
 
-Mejora tus habilidades en inglés con estos recursos gratuitos:
-
-- **EFSET (Prueba de Nivelación)**  
-  Evalúa tu nivel de inglés.  
-  [Realiza la prueba aquí](https://www.efset.org/es/)
-- **Inglés para Desarrolladores A2**  
-  Curso para principiantes en inglés técnico.  
-  [Inscríbete aquí](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
-- **Inglés para Desarrolladores B1**  
-  Curso para nivel intermedio en inglés técnico.  
-  [Inscríbete aquí](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
-
----
 
 ## The Linux Foundation
 
@@ -231,7 +223,22 @@ Mejora tus habilidades en inglés con estos recursos gratuitos:
 
 ---
 
-## Recursos para Desarrollo
+## Cursos de Inglés
+
+Mejora tus habilidades en inglés con estos recursos gratuitos:
+
+- **EFSET (Prueba de nivelación)**  
+  Evalúa tu nivel de inglés.  
+  [Realiza la prueba aquí](https://www.efset.org/es/)
+- **Inglés para desarrolladores A2**  
+  Curso para principiantes en inglés técnico.  
+  [Inscríbete aquí](https://www.freecodecamp.org/espanol/learn/a2-english-for-developers/)
+- **Inglés para desarrolladores B1**  
+  Curso para nivel intermedio en inglés técnico.  
+  [Inscríbete aquí](https://www.freecodecamp.org/espanol/learn/b1-english-for-developers/)
+
+---
+## Recursos para desarrollo
 
 Herramientas útiles para desarrolladores (no otorgan certificaciones):
 
@@ -244,6 +251,10 @@ Herramientas útiles para desarrolladores (no otorgan certificaciones):
 - **Librería de Recursos**  
   Colección de recursos útiles para desarrollo.  
   [Accede aquí](https://libreria-ohara.netlify.app/)
+- **Pasantías 2025**
+  Lista de pasantías disponibles
+   [Accede aquí](https://pasantias.netlify.app/)
+- [Recursos UNA Campus Sarapiquí - Ingeniería en Sistemas](https://axelandrade21.github.io/web/pingenieria/)
 
 ---
 
@@ -257,13 +268,6 @@ Herramientas útiles para desarrolladores (no otorgan certificaciones):
 5. Crea un *pull request* para revisión.  
 
 Por favor, asegúrate de que los recursos sean gratuitos y de plataformas confiables.
-
 ---
-
-## Licencia
-
-Este repositorio está bajo la [Licencia MIT](LICENSE). Siéntete libre de usar, compartir y modificar el contenido, siempre que des crédito al repositorio original.
-
----
-
-¡Gracias por visitar este repositorio! Esperamos que encuentres estos recursos útiles para tu desarrollo profesional. 🚀
+Creado por [Axel A.V](https://aaavportafolio.netlify.app/)
+¡Gracias por visitar este repositorio! Espero que encuentres estos recursos útiles para tu desarrollo profesional. 🚀
