@@ -170,6 +170,15 @@ La **Agencia Nacional de Empleo (INA)** ofrece cursos gratuitos con certificados
   **Finalización**: 16 de junio de 2025  
 - **Python Essentials 1**  
   [Detalles e inscripción](https://ane.cr/Formacion/CursosUsuarios/Detalles?CursoId=31090&Tipo=2)
+- **Python Essentials 2**  
+  [Detalles e inscripción](https://ane.cr/Formacion/CursosUsuarios/Detalles?CursoId=31055&Tipo=2)
+- **Introducción a la ciberseguridad**  
+  [Detalles e inscripción](https://ane.cr/Formacion/CursosUsuarios/Detalles?CursoId=30280&Tipo=2)
+- **Gestión de redes CCNA**  
+  [Detalles e inscripción](https://ane.cr/Formacion/CursosUsuarios/Detalles?CursoId=31098&Tipo=2)
+- **Computer hardware basics**  
+  [Detalles e inscripción](https://ane.cr/Formacion/CursosUsuarios/Detalles?CursoId=31058&Tipo=2)
+
 
 ---
 
